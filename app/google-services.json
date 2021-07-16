@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "229200382452",
+    "firebase_url": "https://esale-9f448.firebaseio.com",
+    "project_id": "esale-9f448",
+    "storage_bucket": "esale-9f448.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229200382452:android:6a5700a5d69a07cb9151a1",
+        "android_client_info": {
+          "package_name": "com.example.esale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229200382452-ccrsgbql08qrmnlb5jtl3a6br3f4qehg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOkplSNFgJgGA-SPmbNl_7xDBbNaiVKDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229200382452-ccrsgbql08qrmnlb5jtl3a6br3f4qehg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
